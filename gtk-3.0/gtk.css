@@ -51,6 +51,9 @@
     -GtkWidget-cursor-color          : #fcfcfc;
     -GtkWidget-secondary-cursor-color: #fcfcfc;
     -GtkWidget-cursor-aspect-ratio   : 0.1;
+    -GtkWidget-link-color           : #569cc1;
+    -GtkWidget-visited-link-color   : #f2f2f2;
+
 
     border-width: 1px 1px;
 

@@ -26,12 +26,14 @@ style "default"
     GtkWidget::focus_padding                     = 1 
     GtkWidget::interior_focus                    = 1 
     GtkWidget::internal_padding                  = 2 
-    GtkEntry::cursor_color                       = "#fcfcfc"
+    GtkEntry::cursor_color                       = "#000000"
     GtkEntry::secondary_cursor_color             = "#fcfcfc"
-    GtkTextView::cursor_color                    = "#fcfcfc"
-    GtkTextView::secondary_cursor_color          = "#fcfcfc"
+    GtkTextView::cursor_color                    = "#000000"
+    GtkTextView::secondary_cursor_color          = "#fcfc00"
     GtkEntry::cursor_aspect_ratio                = 0.1
     GtkEntry::cursor_aspect_ratio                = 0.1
+    GtkWidget::link-color 			 = "#569cc1"
+    GtkWidget::visited-link-color 		 = "#f2f2f2"
     
     xthickness             = 1
     ythickness             = 1
